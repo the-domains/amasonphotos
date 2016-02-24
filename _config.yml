@@ -1,0 +1,28 @@
+name: amasonphotos
+favicon: null
+layout_spectrum: 0.42602629004977643
+typography_spectrum: 0.819954483769834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9973170978482813
+  lightness: 0.1556234669405967
+  saturation: 0.7237329231575131
+  rhythmicContrast: 0.6587168800178915
+purpose: []
