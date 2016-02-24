@@ -1,6 +1,6 @@
 name: amasonphotos
 favicon: null
-layout_spectrum: 0.42602629004977643
+layout_spectrum: 1
 typography_spectrum: 0.819954483769834
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9973170978482813
+  brandStrength: 0.5
   lightness: 0.1556234669405967
-  saturation: 0.7237329231575131
+  saturation: 0.5
   rhythmicContrast: 0.6587168800178915
 purpose: []
