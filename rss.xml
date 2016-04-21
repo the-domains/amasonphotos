@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[amasonphotos]]></title>
         <description><![CDATA[amasonphotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amasonphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:02:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 17:10:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amasonphotos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a144e99-43ee-489e-bd0a-5acb17f6c713.jpg">]]></description>
-            <link>undefined9c1b654d-4a6e-4c64-9fd2-127a5a63c038/index.html</link>
+            <title><![CDATA[Serenity ]]></title>
+            <description><![CDATA[<article><h1>Serenity </h1><p>Here is the first official test of the new site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e6da5b5a68446be8dedc091f83aa09bd675a199.jpg"></article>]]></description>
+            <link>https://thegrid.ai/amasonphotos/9c1b654d-4a6e-4c64-9fd2-127a5a63c038/index.html</link>
             <guid isPermaLink="false">9c1b654d-4a6e-4c64-9fd2-127a5a63c038</guid>
-            <pubDate>Wed, 24 Feb 2016 21:02:00 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 17:10:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
